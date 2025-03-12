@@ -1,7 +1,7 @@
 {
   "name": "capacitor-branch-deep-links",
-  "version": "8.4.0",
-  "description": "Capacitor plugin for Branch.io deep links",
+  "version": "1.0.1",
+  "description": "C8.4.0apacitor plugin for Branch.io deep links",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",

@@ -1,6 +1,6 @@
 Branch Capacitor SDK change log
 
-- 8.4.0
+- 1.0.1
 
   - Exposed new method `setConsumerProtectionAttributionLevel` to set CPP level
   - Branch Android SDK bumped to 5.15.1
