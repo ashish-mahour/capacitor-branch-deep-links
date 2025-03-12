@@ -20,10 +20,7 @@ export class BranchDeepLinksWeb
   implements BranchDeepLinksPlugin
 {
   constructor() {
-    super({
-      name: 'BranchDeepLinks',
-      platforms: ['web'],
-    });
+    super();
   }
 
   handleUrl(_: BranchUrlParams): Promise<void> {
